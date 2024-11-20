@@ -2,7 +2,7 @@
 
 Node-RED nodes for Domotys WTS-04
 
-Documentation can be found here: https://doc.domotys.net/wts-04
+Documentation can be found here: [https://doc.domotys.net/wts-04](https://doc.wts.domotys.net/)
 
 
 ## Installation
